@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quizesss</string>
+    <string name="trivia">Quizesss</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="text_view_out_off">Question: 5/2000</string>
+    <string name="correct_answer">Correct!!</string>
+    <string name="incorrect_answer">Incorrect!!!</string>
+</resources>
